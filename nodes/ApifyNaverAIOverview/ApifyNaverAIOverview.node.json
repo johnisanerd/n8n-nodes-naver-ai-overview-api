@@ -1,0 +1,33 @@
+{
+	"node": "n8n-nodes-naver-ai-overview-api",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Data & Storage",
+		"Analytics"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.apify.com/platform/integrations/n8n"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://apify.com/johnvc/naver-ai-overview-api?fpr=9n7kx3"
+			}
+		]
+	},
+	"alias": [
+		"naver ai overview",
+		"naver ai",
+		"korean aeo",
+		"aeo",
+		"ai overview",
+		"ai search",
+		"answer engine",
+		"korea seo",
+		"generative search",
+		"apify"
+	]
+}

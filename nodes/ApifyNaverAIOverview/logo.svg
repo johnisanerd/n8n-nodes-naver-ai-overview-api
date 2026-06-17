@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- badge -->
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#03C75A"/>
+  <!-- speech bubble -->
+  <path d="M16 18 h32 a4 4 0 0 1 4 4 v16 a4 4 0 0 1 -4 4 H30 l-8 7 v-7 h-6 a4 4 0 0 1 -4 -4 V22 a4 4 0 0 1 4 -4 Z" fill="#E7FBEF"/>
+  <!-- sparkle -->
+  <path d="M32 22 l2 4.6 4.6 2 -4.6 2 -2 4.6 -2 -4.6 -4.6 -2 4.6 -2 Z" fill="#03C75A"/>
+</svg>
